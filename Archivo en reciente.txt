@@ -2,8 +2,6 @@
 - Codificación de la funcionalidad / issueType:"Development" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo" / estimate:"6h" 
 - (Find bugs) SonarLing / issueType:"Development" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Ejecucion Find bugs local" / estimate:"6h" 
 - Pruebas individuales / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Ejecucion pruebas individuales" / estimate:"6h" 
-- Sonar (Bamboo) / issueType:"Development" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Revision Sonar Bamboo" / estimate:"6h" 
-- Revisión entre compañeros / issueType:"Peer review" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Revision por pares" / estimate:"6h" 
 - Pruebas Unitarias / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo pruebas unitarias" / estimate:"6h" 
 - Prueba Performance LOCAL / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo pruebas perfomance / estimate:"6h" 
 - Documentar en confluence los cambios a nivel de estructura de la Base de datos / issueType:"Detailed design" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Documentar en confluence los cambios a nivel de estructura de la Base de datos" / estimate:"6h" 
