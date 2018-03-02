@@ -4,5 +4,4 @@
 - Pruebas individuales / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Ejecucion pruebas individuales" / estimate:"6h" 
 - Pruebas Unitarias / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo pruebas unitarias" / estimate:"6h" 
 - Prueba Performance LOCAL / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo pruebas perfomance / estimate:"6h" 
-- Documentar en confluence los cambios a nivel de estructura de la Base de datos / issueType:"Detailed design" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Documentar en confluence los cambios a nivel de estructura de la Base de datos" / estimate:"6h" 
 - Preparar presentación del Desarrollo / issueType:"Detailed design" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Preparar presentación del Desarrollo" / estimate:"6h" 
