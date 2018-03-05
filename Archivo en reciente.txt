@@ -3,5 +3,5 @@
 - (Find bugs) SonarLing / issueType:"Development" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Ejecucion Find bugs local" / estimate:"6h" 
 - Pruebas individuales / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Ejecucion pruebas individuales" / estimate:"6h" 
 - Pruebas Unitarias / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo pruebas unitarias" / estimate:"6h" 
-- Prueba Performance LOCAL / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo pruebas perfomance / estimate:"6h" 
+- Prueba Performance REMOTE / issueType:"Test execution" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Desarrollo pruebas perfomance / estimate:"6h" 
 - Preparar presentación del Desarrollo / issueType:"Detailed design" / assignee:"@current" / priority:"Major" / component:"OBLIGACIONES Scrum"  / description:"Preparar presentación del Desarrollo" / estimate:"6h" 
